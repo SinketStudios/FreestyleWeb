@@ -1,0 +1,16 @@
+footer {
+	display: block;
+	text-align: center;
+	margin-top: 1080px;
+	position: static;
+}
+
+.copy {
+	text-align: center;
+}
+
+hr {
+	text-align: center;
+	width: 600px;
+	color: rgba(159,159,159,0.2);
+}
